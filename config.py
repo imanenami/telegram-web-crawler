@@ -1,0 +1,8 @@
+TIMEZONE = "Asia/Tehran"
+USE_PROXY = True
+PROXY_TYPE = "socks5"
+PROXY_ADDRESS = "127.0.0.1"
+PROXY_PORT = 1369
+
+INPUT_FILE = "test_channels.txt"
+MAX_POSTS_PER_CHANNEL = 50
